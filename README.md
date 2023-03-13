@@ -22,26 +22,26 @@ All the data files are stored in the Dataset folder which is present in the root
 
 * Question 1
 
- *Methodology (Q1a. TF-IDF matrix)
-    *Relevant libraries are imported
-    *List of path of all the files in the dataset is determined and a file_dictionary is constructed
-    *Each document is preprocessed as done in Assignment 1
-    *Global vocabulary is created
-    *matrix of size no. of document x vocab size is constructed
-    *above matrix is filled with TF-IDF values
-    *Query is input and sanitized with the same preprocessing steps
-    *The query vector is made of size of vocabulary
-    *TF-IDF score of query is computed using TF-IDF matrix
-    *Top 5 documents based on above score are displayed
-    *Same is repeated for all 5 weighing schemes
+ * Methodology (Q1a. TF-IDF matrix)
+    * Relevant libraries are imported
+    * List of path of all the files in the dataset is determined and a file_dictionary is constructed
+    * Each document is preprocessed as done in Assignment 1
+    * Global vocabulary is created
+    * matrix of size no. of document x vocab size is constructed
+    * above matrix is filled with TF-IDF values
+    * Query is input and sanitized with the same preprocessing steps
+    * The query vector is made of size of vocabulary
+    * TF-IDF score of query is computed using TF-IDF matrix
+    * Top 5 documents based on above score are displayed
+    * Same is repeated for all 5 weighing schemes
     
- *Methodology (Q1b. Jaccard Coefficient)
-    *Relevant libraries are imported
-    *List of path of all the files in the dataset is determined
-    *Each document is preprocessed as done in Assignment 1
-    *Query is input and sanitized with the same preprocessing steps
-    *Jaccard Coefficient for doc,query pairs is found
-    *Top 5 relevant documents based on jaccard coefficient are displayed
+ * Methodology (Q1b. Jaccard Coefficient)
+    * Relevant libraries are imported
+    * List of path of all the files in the dataset is determined
+    * Each document is preprocessed as done in Assignment 1
+    * Query is input and sanitized with the same preprocessing steps
+    * Jaccard Coefficient for doc,query pairs is found
+    * Top 5 relevant documents based on jaccard coefficient are displayed
     
     
 * Question 3

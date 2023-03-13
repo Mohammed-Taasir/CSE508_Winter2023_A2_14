@@ -46,11 +46,11 @@ All the data files are stored in the Dataset folder which is present in the root
     
 * Question 3
 
-  *Methodology
-    *Relevant libraries are imported
-    *List of path of all the file in the dataset is determined
-    *Qid:4 is extracted and stored in a separate list and rest all the rows are stored in another list
-    *The list is sorted in descending order
-    *Total number of files is calculated
-    *nDCG at 50 and whole dataset is calculated
-    *Precision-Recall graph is plotted on feature 75
+  * Methodology
+    * Relevant libraries are imported
+    * List of path of all the file in the dataset is determined
+    * Qid:4 is extracted and stored in a separate list and rest all the rows are stored in another list
+    * The list is sorted in descending order
+    * Total number of files is calculated
+    * nDCG at 50 and whole dataset is calculated
+    * Precision-Recall graph is plotted on feature 75

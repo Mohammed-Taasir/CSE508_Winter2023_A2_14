@@ -2,17 +2,17 @@
 
 ## Assignment info
 
-Course: Information Retrieval [CSE508]
-Semester: Winter 2023
-Group: 14
-Assignment 2
+- Course: Information Retrieval [CSE508]
+- Semester: Winter 2023
+- Group: 14
+- Assignment 2
 
 
 ## Repository Description
 
-A2_Q1.ipynb: Complete code with comments for Question 1
-Q2.ipynb: Complete code with comments for Question 2 
-A2_Q3.ipynb: Complete code with comments for Question 3
+- A2_Q1.ipynb: Complete code with comments for Question 1
+- Q2.ipynb: Complete code with comments for Question 2 
+- A2_Q3.ipynb: Complete code with comments for Question 3
 
 
 ## .gitignore Description
